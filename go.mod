@@ -8,7 +8,7 @@ require github.com/liveoaklabs/readme-api-go-client v0.5.1
 
 require (
 	github.com/adrg/frontmatter v0.2.0
-	github.com/boumenot/gocover-cobertura v1.2.0
+	github.com/boumenot/gocover-cobertura v1.3.0
 	github.com/hashicorp/terraform-plugin-docs v0.19.4
 	github.com/hashicorp/terraform-plugin-framework v1.11.0
 	github.com/hashicorp/terraform-plugin-go v0.23.0
